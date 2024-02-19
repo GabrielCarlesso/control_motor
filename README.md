@@ -27,6 +27,5 @@ Selecione a porta COM em que o Arduino está conectado.
 Escolha a direção de movimento.
 Envie o comando de movimento ou parada conforme necessário.
 
-![Funcionamento](images/motor.mp4)
 
 
