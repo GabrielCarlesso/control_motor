@@ -29,5 +29,5 @@ Choose the direction of movement.
 Send the move or stop command as needed.
 
 
-[![Funcionamento](images/Motor_img.jpg)](https://youtube.com/shorts/ZEbRpVoKfEg?feature=share)
+[![Funcionamento](images/thumbnail.png)](https://youtube.com/shorts/ZEbRpVoKfEg?feature=share)
 
